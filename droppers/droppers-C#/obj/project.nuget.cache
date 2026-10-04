@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJJA0kq8SKE=",
+  "success": true,
+  "projectFilePath": "/home/tret/modular_tycoon/droppers/droppers-C#/tret.csproj",
+  "expectedPackageFiles": [
+    "/home/tret/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

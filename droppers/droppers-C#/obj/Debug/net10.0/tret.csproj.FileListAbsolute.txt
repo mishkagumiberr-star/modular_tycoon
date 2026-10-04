@@ -1,0 +1,14 @@
+/home/tret/modular_tycoon/droppers/droppers-C#/bin/Debug/net10.0/tret
+/home/tret/modular_tycoon/droppers/droppers-C#/bin/Debug/net10.0/tret.deps.json
+/home/tret/modular_tycoon/droppers/droppers-C#/bin/Debug/net10.0/tret.runtimeconfig.json
+/home/tret/modular_tycoon/droppers/droppers-C#/bin/Debug/net10.0/tret.dll
+/home/tret/modular_tycoon/droppers/droppers-C#/bin/Debug/net10.0/tret.pdb
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.GeneratedMSBuildEditorConfig.editorconfig
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.AssemblyInfoInputs.cache
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.AssemblyInfo.cs
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.csproj.CoreCompileInputs.cache
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.dll
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/refint/tret.dll
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.pdb
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/tret.genruntimeconfig.cache
+/home/tret/modular_tycoon/droppers/droppers-C#/obj/Debug/net10.0/ref/tret.dll
