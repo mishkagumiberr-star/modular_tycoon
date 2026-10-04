@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 a=$(ls -A droppers)
 echo "checking droppers..."
 if [[ -z "$a" ]]
