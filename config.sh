@@ -1,3 +1,3 @@
 #это конфиг для вызова компилятора и других финь для языков
 #сюда надо пихать вызовы компилятора и тд для работы тайкона и дроперов, в общем веселись
-dotnet run /home/tret/modular_tycoon/droppers/dropper.cs &
+dotnet run --project "$HOME/modular_tycoon/droppers/droppers-C#/tret.csproj" &
